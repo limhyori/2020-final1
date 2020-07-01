@@ -1,0 +1,5 @@
+	body, h2, p{margin: 0;}
+		header, section, footer {width: 800px; margin: auto;}
+		h2{font-size: 1em; margin-bottom: 3px;}
+		p{font-size: 1em;}
+		.mb30px{margin-bottom: 30px;}
